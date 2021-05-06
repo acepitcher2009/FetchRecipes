@@ -1,0 +1,39 @@
+.bckgrnd {
+    background-color: darksalmon;
+}
+
+.card:hover{
+    transform: scale(1.05);
+ box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
+.textCenter{
+    text-align: center;
+}
+
+.spacing{
+    margin-right: .75rem;
+    margin-top: 1.0rem;
+}
+
+.input{
+    width: 300px;
+}
+
+.cardHeight{
+    height: auto;
+}
+
+.cardPadding{
+    padding: 0%;
+}
+
+.font{
+    font-family: Papyrus, fantasy; 
+    font-size: 40px;
+}
+
+.cardFont{
+    font-family: Papyrus, fantasy; 
+    font-size: 20px;
+}
